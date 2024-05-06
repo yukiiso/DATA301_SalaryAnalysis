@@ -1,6 +1,7 @@
 # Group 07 - Optimization of Data Scientist's Job Field
 This is a project from DATA301.  
 This project is a group analysis of salary data.
+For more detail, refer to the [presentation video](https://youtu.be/wX8M58ygBF8 'DATA301 Salary Analysis Presentation'). 
 
 ## Milestones
 
